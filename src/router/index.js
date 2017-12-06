@@ -13,7 +13,7 @@ export default new Router({
       props: true
     },
     {
-      path: '/detail/:id',
+      path: '/detail',
       name: 'detail',
       component: DetailView,
       props: true
