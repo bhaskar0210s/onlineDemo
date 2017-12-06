@@ -13,7 +13,11 @@ export default new Router({
       props: true
     },
     {
+<<<<<<< HEAD
       path: '/detail',
+=======
+      path: '/detail/:id',
+>>>>>>> Initial Commit
       name: 'detail',
       component: DetailView,
       props: true
