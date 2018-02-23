@@ -8,6 +8,7 @@
         <p>Stash 2</p>
         <p>Master commit 1</p>
         <p>Master commit 2</p>
+        <p>Master commit 3</p>
       </div>
     </div>
     <div class="page-content">
