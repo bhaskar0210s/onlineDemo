@@ -5,6 +5,7 @@
         <h1 class="display-3">Wanheda</h1>
         <p class="lead">Using bootstrap and some.</p>
         <p>Making chanes from Vishnu</p>
+        <p>To see how rebasing works</p>
       </div>
     </div>
     <div class="page-content">
