@@ -5,11 +5,6 @@
         <h1 class="display-3">Wanheda</h1>
         <p class="lead">Using bootstrap and some.</p>
         <p>Making chanes from Vishnu</p>
-        <p>Stash 2</p>
-        <p>Master commit 1</p>
-        <p>Master commit 2</p>
-        <p>Master commit 3</p>
-        <p>Master commit 4</p
       </div>
     </div>
     <div class="page-content">
