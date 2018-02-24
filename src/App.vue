@@ -23,7 +23,9 @@ export default {
   name: 'app',
   data () {
     return {
-      cart: []
+      cart: [],
+      cart_price: 0,
+      isCartEmpty: true,
     }
   }
 }
