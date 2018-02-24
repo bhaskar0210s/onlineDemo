@@ -6,6 +6,7 @@
         <p class="lead">Using bootstrap and some.</p>
         <p>Making chanes from Vishnu</p>
         <p>To see how rebasing works</p>
+        <p>Stash 1</p>
       </div>
     </div>
     <div class="page-content">
