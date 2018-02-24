@@ -20,9 +20,6 @@ export default {
     return {
       cart: [],
       cart_price: 0,
-      isCartEmpty: true,
-      product: null,
-      section: null,
     }
   }
 }
