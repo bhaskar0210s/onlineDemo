@@ -33,6 +33,5 @@ export default {
 @import url('http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css');
 .container {
   font-family: 'Muli', sans-serif;
-  font-size: 30px;
 }
 </style>
