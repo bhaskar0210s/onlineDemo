@@ -3,7 +3,7 @@
     <div class="jumbotron">
       <div class="container">
         <h1 class="display-3">Wanheda</h1>
-        <p class="lead">Using bootstrap and some.</p>
+        <p class="lead">Using bootstrap and something new.</p>
       </div>
     </div>
     <div class="page-content">
